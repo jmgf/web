@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <body>
-  
-    
+
   Para a camada de negócio, deverão:
       <ul>
         <li>definir a arquitectura da mesma, considerando a capacidade de reutilização da mesma e as preocupações em ter um modelo independente da tecnologia que permita declinações tecnológica distintas</li>
@@ -19,6 +15,3 @@
         <li>Deverão apresentar no relatório os diferentes modelos ou mockups produzidos, bem assim como a identificação de eventuais padrões utilizados.</li>
         <li>Deverão ainda apresentaruma discussão breve sobre a usabilidade da aplicação (de que modo se adequa às tarefas definidas, quais os princípios de usabilidade mais relevantes para o projecto e como foram considerados, de que modo foi feita a avaliação da proposta)</li>
       </ul>
-      
-  </body>
-</html>
