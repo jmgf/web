@@ -12,13 +12,12 @@
         <li>dar indicação dos patamares de carga que conseguiram obter durante a fase de testes e responder à questão “Quantas sessões em simultâneo é que esta infraestrutura suporta?”.</li>
       </ul>
       
-      Para a camada de interface com o utilizador, deverão:
-    <ul>
-      <li>Definir os perfis dos utilizadores alvo.</li>
-      <li>Realizar uma análise das tarefas que a aplicação deverá suportar</li>
-      <li>Realizar mockups da interface e avaliá-los de forma a obter a melhor interface possível</li>
-      <li>Deverão apresentar no relatório os diferentes modelos/mockups produzidos, bem assim como a identificação de eventuais padrões utilizados.</li>
-      <li>Deverão ainda apresentaruma discussão breve sobre a usabilidade da aplicação (de que modo se adequa às tarefas definidas, quais os princípios de usabilidade mais relevantes para o projecto e como foram considerados, de que modo foi feita a avaliação da proposta)</li>
+      <ul>
+        <li>Definir os perfis dos utilizadores alvo.</li>
+        <li>Realizar uma análise das tarefas que a aplicação deverá suportar</li>
+        <li>Realizar mockups da interface e avaliá-los de forma a obter a melhor interface possível</li>
+        <li>Deverão apresentar no relatório os diferentes modelos/mockups produzidos, bem assim como a identificação de eventuais padrões utilizados.</li>
+        <li>Deverão ainda apresentaruma discussão breve sobre a usabilidade da aplicação (de que modo se adequa às tarefas definidas, quais os princípios de usabilidade mais relevantes para o projecto e como foram considerados, de que modo foi feita a avaliação da proposta)</li>
       </ul>
       
   </body>
