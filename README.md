@@ -10,6 +10,9 @@
         <li>criar uma camada de persistência que isole a tecnologia de base de dados e tenha os princípios básicos de um mapeamento objecto-relacional.</li>
         <li>criar mecanismos de simulação de carga no sistema e respectiva distribuição de carga pelos diversos servidores aplicacionais, recorrendo a scripts que efectuem pedidos e a carregamentos massivos da base de dados. Interessa durante a apresentação pensar na forma como se vai demonstrar, isto é, repartir os vários servidores pelas máquinas, e como se vai simular os pedidos.</li>
         <li>dar indicação dos patamares de carga que conseguiram obter durante a fase de testes e responder à questão “Quantas sessões em simultâneo é que esta infraestrutura suporta?”.</li>
+        </ul>
+        
+        <ul>
         <li>Definir os perfis dos utilizadores alvo.</li>
         <li>Realizar uma análise das tarefas que a aplicação deverá suportar</li>
         <li>Realizar mockups da interface e avaliá-los de forma a obter a melhor interface possível</li>
