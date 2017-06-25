@@ -1,5 +1,5 @@
 
-  Para a camada de negócio, deverão:
+  <p>Para a camada de negócio, deverão:</p>
       <ul>
         <li>definir a arquitectura da mesma, considerando a capacidade de reutilização da mesma e as preocupações em ter um modelo independente da tecnologia que permita declinações tecnológica distintas</li>
         <li>criar uma camada de interoperabilidade baseada em web services, que faça acesso aos serviços da camada aplicacional</li>
@@ -7,7 +7,7 @@
         <li>criar mecanismos de simulação de carga no sistema e respectiva distribuição de carga pelos diversos servidores aplicacionais, recorrendo a scripts que efectuem pedidos e a carregamentos massivos da base de dados. Interessa durante a apresentação pensar na forma como se vai demonstrar, isto é, repartir os vários servidores pelas máquinas, e como se vai simular os pedidos.</li>
         <li>dar indicação dos patamares de carga que conseguiram obter durante a fase de testes e responder à questão “Quantas sessões em simultâneo é que esta infraestrutura suporta?”.</li>
         </ul>
-        <p></p>
+        <p>Para a camada de interface com o utilizador, deverão</p>
         <ul>
           <li>Definir os perfis dos utilizadores alvo.</li>
           <li>Realizar uma análise das tarefas que a aplicação deverá suportar</li>
